@@ -5,7 +5,7 @@
 <stop offset="0" stop-color="#FF7AD9"/>
 <stop offset="0.33" stop-color="#9B6BFF"/>
 <stop offset="0.66" stop-color="#3DE0FF"/>
-<stop offset="1" stop-color="#C8FF2E"/>
+<stop offset="1" stop-color="#FF9A3D"/>
 </linearGradient>
 <linearGradient id="iri2" x1="1" y1="0" x2="0" y2="1">
 <stop offset="0" stop-color="#3DE0FF"/>
@@ -13,8 +13,8 @@
 <stop offset="1" stop-color="#9B6BFF"/>
 </linearGradient>
 <linearGradient id="inner" x1="0" y1="0" x2="0" y2="1">
-<stop offset="0" stop-color="#1A1C2B"/>
-<stop offset="1" stop-color="#07080F"/>
+<stop offset="0" stop-color="#1B1E26"/>
+<stop offset="1" stop-color="#08090D"/>
 </linearGradient>
 <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
 <stop offset="0" stop-color="#B98CFF" stop-opacity="0.55"/>

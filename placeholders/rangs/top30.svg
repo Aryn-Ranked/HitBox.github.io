@@ -5,7 +5,7 @@
 <stop offset="0" stop-color="#FF7AD9"/>
 <stop offset="0.33" stop-color="#9B6BFF"/>
 <stop offset="0.66" stop-color="#3DE0FF"/>
-<stop offset="1" stop-color="#C8FF2E"/>
+<stop offset="1" stop-color="#FF9A3D"/>
 </linearGradient>
 <linearGradient id="iri2" x1="1" y1="0" x2="0" y2="1">
 <stop offset="0" stop-color="#3DE0FF"/>
@@ -13,8 +13,8 @@
 <stop offset="1" stop-color="#9B6BFF"/>
 </linearGradient>
 <linearGradient id="inner" x1="0" y1="0" x2="0" y2="1">
-<stop offset="0" stop-color="#1A1C2B"/>
-<stop offset="1" stop-color="#07080F"/>
+<stop offset="0" stop-color="#1B1E26"/>
+<stop offset="1" stop-color="#08090D"/>
 </linearGradient>
 <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
 <stop offset="0" stop-color="#B98CFF" stop-opacity="0.55"/>
@@ -34,6 +34,6 @@
 <path d="M64 34 L64 94" stroke="#FFFFFF" stroke-opacity="0.5"/></g>
 <path d="M36 22 L44 4 L54 16 L64 0 L74 16 L84 4 L92 22 Z" fill="url(#gold)" stroke="#FFF1A8" stroke-width="1.5" stroke-linejoin="round"/>
 <rect x="34" y="22" width="60" height="6" rx="2" fill="url(#gold)"/>
-<path d="M30 104 L38 94 H90 L98 104 L90 114 H38 Z" fill="#0B0C14" stroke="url(#iri)" stroke-width="2"/>
+<path d="M30 104 L38 94 H90 L98 104 L90 114 H38 Z" fill="#0B0D12" stroke="url(#iri)" stroke-width="2"/>
 <text x="64" y="109.5" text-anchor="middle" font-family="Oxanium, 'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="800" letter-spacing="1" fill="#FFFFFF">TOP 30</text>
 </svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" role="img" aria-labelledby="titre-icone">
+  <title id="titre-icone">HITBOX</title>
+  <!-- Icône extraite du logo : cadre « hitbox » (coins) + hitmarker au centre -->
+  <g fill="none" stroke-linecap="square">
+    <path d="M2 12V2h10M28 2h10v10M38 28v10H28M12 38H2V28" stroke="#eef1f7" stroke-width="4"/>
+    <path d="M12.5 12.5l4 4M27.5 12.5l-4 4M12.5 27.5l4-4M27.5 27.5l-4-4" stroke="#ff5a1f" stroke-width="3.5"/>
+  </g>
+</svg>

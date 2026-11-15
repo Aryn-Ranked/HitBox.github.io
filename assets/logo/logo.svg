@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 252 40" role="img" aria-labelledby="titre-logo">
+  <title id="titre-logo">HITBOX</title>
+  <!-- Icône : cadre « hitbox » (coins) + hitmarker au centre -->
+  <g fill="none" stroke-linecap="square">
+    <path d="M2 12V2h10M28 2h10v10M38 28v10H28M12 38H2V28" stroke="#eef1f7" stroke-width="4"/>
+    <path d="M12.5 12.5l4 4M27.5 12.5l-4 4M12.5 27.5l4-4M27.5 27.5l-4-4" stroke="#ff5a1f" stroke-width="3.5"/>
+  </g>
+  <!-- Lettres HITBOX dessinées en formes géométriques -->
+  <g fill="#eef1f7" fill-rule="evenodd" transform="translate(54 0)">
+    <path d="M0 0h8v16h16V0h8v40h-8V24H8v16H0z"/>
+    <path d="M38 0h8v40h-8z"/>
+    <path d="M52 0h32v8H72v32h-8V8H52z"/>
+    <path d="M90 0h26l6 6v9l-4 5 4 5v9l-6 6H90zM98 8h14l2 2v4l-2 2H98zM98 24h14l2 2v4l-2 2H98z"/>
+    <path d="M134 0h20l6 6v28l-6 6h-20l-6-6V6zM138 8h12l2 2v20l-2 2h-12l-2-2V10z"/>
+    <path d="M166 0h9l7 13 7-13h9l-11 20 11 20h-9l-7-13-7 13h-9l11-20z"/>
+  </g>
+</svg>

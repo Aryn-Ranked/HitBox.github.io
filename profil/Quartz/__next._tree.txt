@@ -1,7 +1,7 @@
-:HL["/HitBox.github.io/_next/static/chunks/0mkzjxe33hh08.css","style"]
+:HL["/HitBox.github.io/_next/static/chunks/3hgssf1dvvn0e.css","style"]
 :HL["/HitBox.github.io/_next/static/media/manrope_latin_wght_normal-s.p.1p_a2k8qd5zhp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/HitBox.github.io/_next/static/media/oxanium_latin_wght_normal-s.p.3pe1atno441yw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"username","t":"d","k":"Quartz","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"profil","h":96,"c":"$Q2"}]]
-0:{"b":"LUoL64QbWnKrtJ1V3q4eg","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"aLeD9L38szYbHrirW2fvv","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <!-- Favicon: logo-icone (assets/logo/logo-icone.svg) on a dark tile so the
+       off-white brackets stay visible on light browser tabs too. -->
+  <rect width="48" height="48" rx="10" fill="#08090d"/>
+  <g transform="translate(4 4)" fill="none" stroke-linecap="square">
+    <path d="M2 12V2h10M28 2h10v10M38 28v10H28M12 38H2V28" stroke="#eef1f7" stroke-width="4"/>
+    <path d="M12.5 12.5l4 4M27.5 12.5l-4 4M12.5 27.5l4-4M27.5 27.5l-4-4" stroke="#ff5a1f" stroke-width="3.5"/>
+  </g>
+</svg>

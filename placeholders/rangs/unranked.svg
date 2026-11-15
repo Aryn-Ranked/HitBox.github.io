@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Non classé">
 <title>Non classé</title>
-<path d="M64 6 L112 32 V84 L64 112 L16 84 V32 Z" fill="#11131D" stroke="#5B6178" stroke-width="2.5" stroke-dasharray="7 6" stroke-linejoin="round"/>
-<path d="M64 22 L98 41 V77 L64 96 L30 77 V41 Z" fill="#0B0C14" stroke="#2A2E40" stroke-width="1.5"/>
+<path d="M64 6 L112 32 V84 L64 112 L16 84 V32 Z" fill="#12141A" stroke="#5E6574" stroke-width="2.5" stroke-dasharray="7 6" stroke-linejoin="round"/>
+<path d="M64 22 L98 41 V77 L64 96 L30 77 V41 Z" fill="#0B0D12" stroke="#2A2F3A" stroke-width="1.5"/>
 <text x="64" y="75" text-anchor="middle" font-family="Oxanium, 'Segoe UI', system-ui, sans-serif" font-size="40" font-weight="800" fill="#8A90A8">?</text>
 </svg>

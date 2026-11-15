@@ -1,18 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Logo">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" width="40" height="40" role="img" aria-label="Logo">
 <title>Logo</title>
-<defs>
-<linearGradient id="volt" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0" stop-color="#E4FF7A"/>
-<stop offset="1" stop-color="#9BE600"/>
-</linearGradient>
-<linearGradient id="uv" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0" stop-color="#A68BFF"/>
-<stop offset="1" stop-color="#6A3DF0"/>
-</linearGradient>
-</defs>
-<path d="M14 6 H26 L18 58 H6 Z" fill="url(#uv)"/>
-<path d="M46 6 H58 L50 58 H38 Z" fill="url(#volt)"/>
-<path d="M15 27 H51 L49 37 H13 Z" fill="url(#volt)"/>
-<path d="M13 37 H49 L48 43 H12 Z" fill="url(#uv)" opacity="0.7"/>
-<rect x="2" y="2" width="60" height="60" fill="none" stroke="#C8FF2E" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="10 6"/>
+<g fill="none" stroke-linecap="square">
+<path d="M2 12V2h10M28 2h10v10M38 28v10H28M12 38H2V28" stroke="#EEF1F7" stroke-width="4"/>
+<path d="M12.5 12.5l4 4M27.5 12.5l-4 4M12.5 27.5l4-4M27.5 27.5l-4-4" stroke="#FF5A1F" stroke-width="3.5"/>
+</g>
 </svg>

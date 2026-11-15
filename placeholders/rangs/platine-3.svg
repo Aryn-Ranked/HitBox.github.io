@@ -7,8 +7,8 @@
 <stop offset="1" stop-color="#0E5156"/>
 </linearGradient>
 <linearGradient id="inner" x1="0" y1="0" x2="0" y2="1">
-<stop offset="0" stop-color="#1A1C2B"/>
-<stop offset="1" stop-color="#07080F"/>
+<stop offset="0" stop-color="#1B1E26"/>
+<stop offset="1" stop-color="#08090D"/>
 </linearGradient>
 <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1">
 <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/>
@@ -26,5 +26,5 @@
 <path d="M64 34 L82 44 V64 L64 75 L46 64 V44 Z" fill="none" stroke="url(#metal)" stroke-width="5" stroke-linejoin="round"/>
 <path d="M64 46 L71 50 V58 L64 62 L57 58 V50 Z" fill="#A6FFEE"/>
 <path d="M64 4 L108 28 V44 C80 34 50 38 20 50 V28 Z" fill="url(#sheen)" opacity="0.5"/>
-<path d="M34 118 L40 110 H88 L94 118 L88 126 H40 Z" fill="#0B0C14" stroke="#4FD1BD" stroke-opacity="0.6" stroke-width="1.2"/><path d="M48 112 l6 6 l-6 6 l-6 -6 z" fill="url(#metal)" stroke="#A6FFEE" stroke-opacity="1" stroke-width="1.5"/><path d="M64 112 l6 6 l-6 6 l-6 -6 z" fill="url(#metal)" stroke="#A6FFEE" stroke-opacity="1" stroke-width="1.5"/><path d="M80 112 l6 6 l-6 6 l-6 -6 z" fill="url(#metal)" stroke="#A6FFEE" stroke-opacity="1" stroke-width="1.5"/>
+<path d="M34 118 L40 110 H88 L94 118 L88 126 H40 Z" fill="#0B0D12" stroke="#4FD1BD" stroke-opacity="0.6" stroke-width="1.2"/><path d="M48 112 l6 6 l-6 6 l-6 -6 z" fill="url(#metal)" stroke="#A6FFEE" stroke-opacity="1" stroke-width="1.5"/><path d="M64 112 l6 6 l-6 6 l-6 -6 z" fill="url(#metal)" stroke="#A6FFEE" stroke-opacity="1" stroke-width="1.5"/><path d="M80 112 l6 6 l-6 6 l-6 -6 z" fill="url(#metal)" stroke="#A6FFEE" stroke-opacity="1" stroke-width="1.5"/>
 </svg>
