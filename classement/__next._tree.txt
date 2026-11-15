@@ -3,4 +3,4 @@
 :HL["/HitBox.github.io/_next/static/media/oxanium_latin_wght_normal-s.p.3pe1atno441yw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"classement","h":100,"c":"$Q2"}]]
-0:{"b":"0SmnYFmcnNVT3xLHO9YEl","t":{"t":{"s":"","h":88,"c":"$Q1"}}}
+0:{"b":"LUoL64QbWnKrtJ1V3q4eg","t":{"t":{"s":"","h":88,"c":"$Q1"}}}

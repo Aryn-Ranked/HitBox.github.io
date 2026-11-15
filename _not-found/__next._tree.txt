@@ -1,4 +1,4 @@
 :HL["/HitBox.github.io/_next/static/chunks/0mkzjxe33hh08.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"0SmnYFmcnNVT3xLHO9YEl","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"LUoL64QbWnKrtJ1V3q4eg","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
