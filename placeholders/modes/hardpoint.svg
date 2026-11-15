@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Hardpoint">
+<title>Hardpoint</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E4FF7A"/><stop offset="1" stop-color="#8FE000"/></linearGradient></defs>
+<path d="M64 10 L114 38 V90 L64 118 L14 90 V38 Z" fill="none" stroke="url(#g)" stroke-width="5" stroke-linejoin="round"/>
+<path d="M64 28 L98 47 V81 L64 100 L30 81 V47 Z" fill="#C8FF2E" fill-opacity="0.12" stroke="#C8FF2E" stroke-opacity="0.4" stroke-width="2"/>
+<path d="M56 40 V90" stroke="url(#g)" stroke-width="5" stroke-linecap="round"/>
+<path d="M58 42 H84 L78 52 L84 62 H58 Z" fill="url(#g)"/>
+</svg>

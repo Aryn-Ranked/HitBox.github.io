@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Diamant III">
+<title>Diamant III</title>
+<defs>
+<linearGradient id="metal" x1="0" y1="0" x2="0.35" y2="1">
+<stop offset="0" stop-color="#E3F4FF"/>
+<stop offset="0.45" stop-color="#4C9BFF"/>
+<stop offset="1" stop-color="#152C8C"/>
+</linearGradient>
+<linearGradient id="inner" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#1A1C2B"/>
+<stop offset="1" stop-color="#07080F"/>
+</linearGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/>
+<stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="halo" cx="0.5" cy="0.45" r="0.55">
+<stop offset="0" stop-color="#4F8CFF" stop-opacity="0.45"/>
+<stop offset="1" stop-color="#4F8CFF" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<circle cx="64" cy="58" r="60" fill="url(#halo)"/>
+<path d="M38 10 H90 L120 42 L64 108 L8 42 Z" fill="url(#metal)" stroke="#A9D6FF" stroke-width="2" stroke-linejoin="round"/>
+<path d="M8 42 H120" stroke="#A9D6FF" stroke-width="1.5" opacity="0.8"/>
+<path d="M38 10 L50 42 L64 10 L78 42 L90 10" fill="none" stroke="#A9D6FF" stroke-width="1.5" stroke-linejoin="round" opacity="0.8"/>
+<path d="M50 42 L64 108 L78 42" fill="none" stroke="#152C8C" stroke-width="1.5" opacity="0.8"/>
+<path d="M50 42 L64 10 L78 42 Z" fill="#FFFFFF" opacity="0.35"/>
+<path d="M8 42 L38 10 L50 42 Z" fill="#FFFFFF" opacity="0.18"/>
+<path d="M78 42 L64 108 L120 42 Z" fill="#000000" opacity="0.22"/>
+<path d="M50 42 L64 108 L78 42 Z" fill="#000000" opacity="0.1"/>
+<path d="M34 118 L40 110 H88 L94 118 L88 126 H40 Z" fill="#0B0C14" stroke="#4C9BFF" stroke-opacity="0.6" stroke-width="1.2"/><path d="M48 112 l6 6 l-6 6 l-6 -6 z" fill="url(#metal)" stroke="#A9D6FF" stroke-opacity="1" stroke-width="1.5"/><path d="M64 112 l6 6 l-6 6 l-6 -6 z" fill="url(#metal)" stroke="#A9D6FF" stroke-opacity="1" stroke-width="1.5"/><path d="M80 112 l6 6 l-6 6 l-6 -6 z" fill="url(#metal)" stroke="#A9D6FF" stroke-opacity="1" stroke-width="1.5"/>
+</svg>

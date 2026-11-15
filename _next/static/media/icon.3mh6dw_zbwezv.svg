@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Logo">
+<title>Logo</title>
+<defs>
+<linearGradient id="volt" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#E4FF7A"/>
+<stop offset="1" stop-color="#9BE600"/>
+</linearGradient>
+<linearGradient id="uv" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#A68BFF"/>
+<stop offset="1" stop-color="#6A3DF0"/>
+</linearGradient>
+</defs>
+<path d="M4 58 L27 6 H37 L17 58 Z" fill="url(#uv)"/>
+<path d="M31 6 H41 L62 58 H49 Z" fill="url(#volt)"/>
+<path d="M14 36 H54 L50 45 H10 Z" fill="url(#volt)"/>
+<path d="M10 45 H50 L47 52 H7 Z" fill="url(#uv)" opacity="0.7"/>
+</svg>

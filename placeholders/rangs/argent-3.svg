@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Argent III">
+<title>Argent III</title>
+<defs>
+<linearGradient id="metal" x1="0" y1="0" x2="0.35" y2="1">
+<stop offset="0" stop-color="#FFFFFF"/>
+<stop offset="0.45" stop-color="#AEB9C8"/>
+<stop offset="1" stop-color="#3E4757"/>
+</linearGradient>
+<linearGradient id="inner" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#1A1C2B"/>
+<stop offset="1" stop-color="#07080F"/>
+</linearGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/>
+<stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0"/>
+</linearGradient>
+<radialGradient id="halo" cx="0.5" cy="0.45" r="0.55">
+<stop offset="0" stop-color="#B8C6DA" stop-opacity="0.45"/>
+<stop offset="1" stop-color="#B8C6DA" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<circle cx="64" cy="58" r="60" fill="url(#halo)"/>
+<path d="M24 30 L4 22 L10 40 L2 44 L14 58 L8 64 L26 70 Z" fill="url(#metal)" stroke="#E6ECF5" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M104 30 L124 22 L118 40 L126 44 L114 58 L120 64 L102 70 Z" fill="url(#metal)" stroke="#E6ECF5" stroke-width="1.5" stroke-linejoin="round"/>
+<path d="M64 8 L104 21 V56 C104 80 88 98 64 108 C40 98 24 80 24 56 V21 Z" fill="url(#metal)" stroke="#E6ECF5" stroke-width="2"/>
+<path d="M64 18 L95 28 V56 C95 75 83 89 64 97 C45 89 33 75 33 56 V28 Z" fill="url(#inner)"/>
+<path d="M44 40 L64 54 L84 40 V50 L64 65 L44 50 Z" fill="url(#metal)" stroke="#E6ECF5" stroke-width="1.2"/>
+<path d="M44 60 L64 74 L84 60 V70 L64 85 L44 70 Z" fill="url(#metal)" stroke="#E6ECF5" stroke-width="1.2"/>
+<path d="M64 8 L104 21 V40 C80 30 52 34 24 46 V21 Z" fill="url(#sheen)" opacity="0.5"/>
+<path d="M34 118 L40 110 H88 L94 118 L88 126 H40 Z" fill="#0B0C14" stroke="#AEB9C8" stroke-opacity="0.6" stroke-width="1.2"/><path d="M48 112 l6 6 l-6 6 l-6 -6 z" fill="url(#metal)" stroke="#E6ECF5" stroke-opacity="1" stroke-width="1.5"/><path d="M64 112 l6 6 l-6 6 l-6 -6 z" fill="url(#metal)" stroke="#E6ECF5" stroke-opacity="1" stroke-width="1.5"/><path d="M80 112 l6 6 l-6 6 l-6 -6 z" fill="url(#metal)" stroke="#E6ECF5" stroke-opacity="1" stroke-width="1.5"/>
+</svg>
