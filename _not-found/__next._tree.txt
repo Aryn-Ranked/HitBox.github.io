@@ -1,4 +1,4 @@
-:HL["/HitBox.github.io/_next/static/chunks/44hg4hz3602qm.css","style"]
+:HL["/HitBox.github.io/_next/static/chunks/0mkzjxe33hh08.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"ePssmaKrJ2DWvYm7XG9Ek","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"0SmnYFmcnNVT3xLHO9YEl","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
