@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img" aria-label="Lithium">
+<title>Lithium</title>
+<defs>
+<linearGradient id="bglithium" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#16103a"/>
+<stop offset="1" stop-color="#2c2670"/>
+</linearGradient>
+<radialGradient id="glowlithium" cx="0.68" cy="0.4" r="0.6">
+<stop offset="0" stop-color="#8E7BFF" stop-opacity="0.34"/>
+<stop offset="1" stop-color="#8E7BFF" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="shadelithium" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0.45" stop-color="#05060a" stop-opacity="0"/>
+<stop offset="1" stop-color="#05060a" stop-opacity="0.9"/>
+</linearGradient>
+<pattern id="gridlithium" width="40" height="40" patternUnits="userSpaceOnUse">
+<path d="M40 0H0V40" fill="none" stroke="#D8D2FF" stroke-opacity="0.12" stroke-width="1"/>
+</pattern>
+</defs>
+<rect width="1280" height="720" fill="url(#bglithium)"/>
+<rect width="1280" height="720" fill="url(#gridlithium)"/>
+<rect width="1280" height="720" fill="url(#glowlithium)"/>
+<g fill="none" stroke="#D8D2FF" stroke-opacity="0.6" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+<path d="M640 80L860 300L640 520L420 300Z" fill="#8E7BFF" fill-opacity="0.1"/><path d="M640 80V520M420 300H860" opacity="0.6"/><path d="M530 190L750 410M750 190L530 410" opacity="0.4"/>
+<path d="M130 500L230 330L330 500Z" fill="#8E7BFF" fill-opacity="0.1"/><path d="M950 520L1050 330L1150 520Z" fill="#8E7BFF" fill-opacity="0.1"/>
+<path d="M130 200L260 120L330 220L230 280Z"/><path d="M950 200L1020 110L1150 200L1070 280Z"/>
+<path d="M330 300H420M860 300H950" stroke-dasharray="10 8"/>
+</g>
+<g fill="none" stroke="#E9E4FF">
+<circle cx="640" cy="300" r="74" stroke-width="5" stroke-dasharray="22 14"/>
+<circle cx="640" cy="300" r="40.7" stroke-width="3" opacity="0.7"/>
+<circle cx="640" cy="300" r="9" fill="#E9E4FF" stroke="none"/>
+</g>
+<circle cx="110" cy="580" r="11" fill="#E9E4FF"/><circle cx="160" cy="580" r="11" fill="#E9E4FF"/><circle cx="210" cy="580" r="11" fill="#E9E4FF"/><circle cx="1070" cy="580" r="11" fill="#D8D2FF"/><circle cx="1120" cy="580" r="11" fill="#D8D2FF"/><circle cx="1170" cy="580" r="11" fill="#D8D2FF"/>
+<rect width="1280" height="720" fill="url(#shadelithium)"/>
+<g fill="none" stroke="#FF5A1F" stroke-width="6" stroke-linecap="square">
+<path d="M40 112V40H112"/><path d="M1168 680H1240V608"/>
+</g>
+<text x="64" y="648" font-family="Oxanium, 'Arial Black', Impact, 'Segoe UI', sans-serif" font-weight="800" font-size="104" letter-spacing="4" fill="#EEF1F7" stroke="#05060a" stroke-opacity="0.55" stroke-width="2" paint-order="stroke">LITHIUM</text>
+<rect x="64" y="668" width="120" height="6" fill="#FF5A1F"/>
+<text x="1216" y="84" text-anchor="end" font-family="Oxanium, 'Arial Black', Impact, 'Segoe UI', sans-serif" font-weight="700" font-size="20" letter-spacing="5" fill="#D8D2FF" fill-opacity="0.75">VISUEL PROVISOIRE</text>
+</svg>

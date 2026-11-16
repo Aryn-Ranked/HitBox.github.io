@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img" aria-label="Lotus">
+<title>Lotus</title>
+<defs>
+<linearGradient id="bglotus" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#082f33"/>
+<stop offset="1" stop-color="#2a1030"/>
+</linearGradient>
+<radialGradient id="glowlotus" cx="0.68" cy="0.4" r="0.6">
+<stop offset="0" stop-color="#FF5FA2" stop-opacity="0.34"/>
+<stop offset="1" stop-color="#FF5FA2" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="shadelotus" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0.45" stop-color="#05060a" stop-opacity="0"/>
+<stop offset="1" stop-color="#05060a" stop-opacity="0.9"/>
+</linearGradient>
+<pattern id="gridlotus" width="40" height="40" patternUnits="userSpaceOnUse">
+<path d="M40 0H0V40" fill="none" stroke="#BDF5EA" stroke-opacity="0.12" stroke-width="1"/>
+</pattern>
+</defs>
+<rect width="1280" height="720" fill="url(#bglotus)"/>
+<rect width="1280" height="720" fill="url(#gridlotus)"/>
+<rect width="1280" height="720" fill="url(#glowlotus)"/>
+<g fill="none" stroke="#BDF5EA" stroke-opacity="0.5" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"><ellipse cx="640" cy="300" rx="62" ry="190" transform="rotate(0 640 300)" fill="#FF5FA2" fill-opacity="0.07"/><ellipse cx="640" cy="300" rx="62" ry="190" transform="rotate(45 640 300)" fill="#FF5FA2" fill-opacity="0.07"/><ellipse cx="640" cy="300" rx="62" ry="190" transform="rotate(90 640 300)" fill="#FF5FA2" fill-opacity="0.07"/><ellipse cx="640" cy="300" rx="62" ry="190" transform="rotate(135 640 300)" fill="#FF5FA2" fill-opacity="0.07"/><circle cx="640" cy="300" r="205"/><circle cx="640" cy="300" r="118" stroke-dasharray="6 10"/>
+<rect x="80" y="110" width="250" height="170" rx="10"/><rect x="950" y="110" width="250" height="170" rx="10"/><rect x="80" y="420" width="250" height="170" rx="10"/><rect x="950" y="420" width="250" height="170" rx="10"/>
+<path d="M330 195H435M845 195H950M330 505H435M845 505H950" stroke-dasharray="10 8"/></g>
+<circle cx="640" cy="300" r="46" fill="#38E0C8" fill-opacity="0.28"/>
+<g fill="none" stroke="#FF5FA2">
+<circle cx="640" cy="300" r="92" stroke-width="5" stroke-dasharray="22 14"/>
+<circle cx="640" cy="300" r="50.6" stroke-width="3" opacity="0.7"/>
+<circle cx="640" cy="300" r="9" fill="#FF5FA2" stroke="none"/>
+</g>
+<circle cx="120" cy="150" r="11" fill="#38E0C8"/><circle cx="170" cy="190" r="11" fill="#38E0C8"/><circle cx="120" cy="230" r="11" fill="#38E0C8"/><circle cx="1160" cy="560" r="11" fill="#FF5FA2"/><circle cx="1110" cy="520" r="11" fill="#FF5FA2"/><circle cx="1160" cy="480" r="11" fill="#FF5FA2"/>
+<rect width="1280" height="720" fill="url(#shadelotus)"/>
+<g fill="none" stroke="#FF5A1F" stroke-width="6" stroke-linecap="square">
+<path d="M40 112V40H112"/><path d="M1168 680H1240V608"/>
+</g>
+<text x="64" y="648" font-family="Oxanium, 'Arial Black', Impact, 'Segoe UI', sans-serif" font-weight="800" font-size="104" letter-spacing="4" fill="#EEF1F7" stroke="#05060a" stroke-opacity="0.55" stroke-width="2" paint-order="stroke">LOTUS</text>
+<rect x="64" y="668" width="120" height="6" fill="#FF5A1F"/>
+<text x="1216" y="84" text-anchor="end" font-family="Oxanium, 'Arial Black', Impact, 'Segoe UI', sans-serif" font-weight="700" font-size="20" letter-spacing="5" fill="#BDF5EA" fill-opacity="0.75">VISUEL PROVISOIRE</text>
+</svg>

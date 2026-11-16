@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img" aria-label="Munition">
+<title>Munition</title>
+<defs>
+<linearGradient id="bgmunition" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#161c0c"/>
+<stop offset="1" stop-color="#2e3318"/>
+</linearGradient>
+<radialGradient id="glowmunition" cx="0.68" cy="0.4" r="0.6">
+<stop offset="0" stop-color="#FFB000" stop-opacity="0.34"/>
+<stop offset="1" stop-color="#FFB000" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="shademunition" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0.45" stop-color="#05060a" stop-opacity="0"/>
+<stop offset="1" stop-color="#05060a" stop-opacity="0.9"/>
+</linearGradient>
+<pattern id="gridmunition" width="40" height="40" patternUnits="userSpaceOnUse">
+<path d="M40 0H0V40" fill="none" stroke="#E4E8B8" stroke-opacity="0.12" stroke-width="1"/>
+</pattern>
+</defs>
+<rect width="1280" height="720" fill="url(#bgmunition)"/>
+<rect width="1280" height="720" fill="url(#gridmunition)"/>
+<rect width="1280" height="720" fill="url(#glowmunition)"/>
+<g fill="none" stroke="#E4E8B8" stroke-opacity="0.5" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"><rect x="120" y="120" width="150" height="80" fill="#FFB000" fill-opacity="0.09" rx="4"/><rect x="330" y="120" width="150" height="80" fill="#FFB000" fill-opacity="0.09" rx="4"/><rect x="540" y="120" width="150" height="80" fill="#FFB000" fill-opacity="0.09" rx="4"/><rect x="750" y="120" width="150" height="80" fill="#FFB000" fill-opacity="0.09" rx="4"/><rect x="960" y="120" width="150" height="80" fill="#FFB000" fill-opacity="0.09" rx="4"/><rect x="120" y="250" width="150" height="80" fill="#FFB000" fill-opacity="0.09" rx="4"/><rect x="330" y="250" width="150" height="80" fill="#FFB000" fill-opacity="0.09" rx="4"/><rect x="540" y="250" width="150" height="80" fill="#FFB000" fill-opacity="0.09" rx="4"/><rect x="750" y="250" width="150" height="80" fill="#FFB000" fill-opacity="0.09" rx="4"/><rect x="960" y="250" width="150" height="80" fill="#FFB000" fill-opacity="0.09" rx="4"/><rect x="120" y="380" width="150" height="80" fill="#FFB000" fill-opacity="0.09" rx="4"/><rect x="330" y="380" width="150" height="80" fill="#FFB000" fill-opacity="0.09" rx="4"/><rect x="540" y="380" width="150" height="80" fill="#FFB000" fill-opacity="0.09" rx="4"/><rect x="750" y="380" width="150" height="80" fill="#FFB000" fill-opacity="0.09" rx="4"/><rect x="960" y="380" width="150" height="80" fill="#FFB000" fill-opacity="0.09" rx="4"/><path d="M60 90V620H1220V90Z" stroke-dasharray="3 9" opacity="0.6"/><path d="M60 330H1220" opacity="0.5"/></g>
+<g fill="none" stroke="#E4E8B8" stroke-opacity="0.6" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"><rect x="300" y="510" width="34" height="34" fill="#FFB000" fill-opacity="0.22"/><rect x="350" y="530" width="34" height="34" fill="#FFB000" fill-opacity="0.22"/><rect x="330" y="480" width="34" height="34" fill="#FFB000" fill-opacity="0.22"/><rect x="870" y="500" width="34" height="34" fill="#FFB000" fill-opacity="0.22"/><rect x="920" y="520" width="34" height="34" fill="#FFB000" fill-opacity="0.22"/><rect x="890" y="470" width="34" height="34" fill="#FFB000" fill-opacity="0.22"/><rect x="600" y="540" width="34" height="34" fill="#FFB000" fill-opacity="0.22"/><rect x="640" y="560" width="34" height="34" fill="#FFB000" fill-opacity="0.22"/></g>
+<g fill="none" stroke="#FFB000">
+<circle cx="640" cy="360" r="70" stroke-width="5" stroke-dasharray="22 14"/>
+<circle cx="640" cy="360" r="38.5" stroke-width="3" opacity="0.7"/>
+<circle cx="640" cy="360" r="9" fill="#FFB000" stroke="none"/>
+</g>
+<circle cx="110" cy="520" r="11" fill="#C9D66B"/><circle cx="160" cy="520" r="11" fill="#C9D66B"/><circle cx="210" cy="520" r="11" fill="#C9D66B"/><circle cx="1070" cy="520" r="11" fill="#E4E8B8"/><circle cx="1120" cy="520" r="11" fill="#E4E8B8"/><circle cx="1170" cy="520" r="11" fill="#E4E8B8"/>
+<rect width="1280" height="720" fill="url(#shademunition)"/>
+<g fill="none" stroke="#FF5A1F" stroke-width="6" stroke-linecap="square">
+<path d="M40 112V40H112"/><path d="M1168 680H1240V608"/>
+</g>
+<text x="64" y="648" font-family="Oxanium, 'Arial Black', Impact, 'Segoe UI', sans-serif" font-weight="800" font-size="104" letter-spacing="4" fill="#EEF1F7" stroke="#05060a" stroke-opacity="0.55" stroke-width="2" paint-order="stroke">MUNITION</text>
+<rect x="64" y="668" width="120" height="6" fill="#FF5A1F"/>
+<text x="1216" y="84" text-anchor="end" font-family="Oxanium, 'Arial Black', Impact, 'Segoe UI', sans-serif" font-weight="700" font-size="20" letter-spacing="5" fill="#E4E8B8" fill-opacity="0.75">VISUEL PROVISOIRE</text>
+</svg>

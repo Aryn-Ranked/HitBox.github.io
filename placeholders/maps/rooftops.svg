@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img" aria-label="Rooftops">
+<title>Rooftops</title>
+<defs>
+<linearGradient id="bgrooftops" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#2a0f3d"/>
+<stop offset="1" stop-color="#8a3a22"/>
+</linearGradient>
+<radialGradient id="glowrooftops" cx="0.68" cy="0.4" r="0.6">
+<stop offset="0" stop-color="#FF8A3D" stop-opacity="0.34"/>
+<stop offset="1" stop-color="#FF8A3D" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="shaderooftops" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0.45" stop-color="#05060a" stop-opacity="0"/>
+<stop offset="1" stop-color="#05060a" stop-opacity="0.9"/>
+</linearGradient>
+<pattern id="gridrooftops" width="40" height="40" patternUnits="userSpaceOnUse">
+<path d="M40 0H0V40" fill="none" stroke="#FFD9B8" stroke-opacity="0.12" stroke-width="1"/>
+</pattern>
+</defs>
+<rect width="1280" height="720" fill="url(#bgrooftops)"/>
+<rect width="1280" height="720" fill="url(#gridrooftops)"/>
+<rect width="1280" height="720" fill="url(#glowrooftops)"/>
+<circle cx="880" cy="250" r="120" fill="#FFC36B" fill-opacity="0.35"/><circle cx="880" cy="250" r="70" fill="#FFC36B" fill-opacity="0.55"/>
+<g fill="none" stroke="#FFD9B8" stroke-opacity="0.5" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"><rect x="150" y="90" width="320" height="170" fill="#FF8A3D" fill-opacity="0.08" rx="4"/><rect x="560" y="110" width="240" height="120" fill="#FF8A3D" fill-opacity="0.08" rx="4"/><rect x="880" y="70" width="300" height="190" fill="#FF8A3D" fill-opacity="0.08" rx="4"/>
+<rect x="190" y="130" width="70" height="50" /><rect x="360" y="150" width="70" height="70" /><path d="M470 175H560M800 170H880" stroke-dasharray="8 8"/></g>
+<g fill="none" stroke="#FF8A3D">
+<circle cx="680" cy="170" r="56" stroke-width="5" stroke-dasharray="22 14"/>
+<circle cx="680" cy="170" r="30.800000000000004" stroke-width="3" opacity="0.7"/>
+<circle cx="680" cy="170" r="9" fill="#FF8A3D" stroke="none"/>
+</g>
+<circle cx="210" cy="290" r="10" fill="#FFC36B"/><circle cx="260" cy="290" r="10" fill="#FFC36B"/><circle cx="1100" cy="300" r="10" fill="#FFD9B8"/><circle cx="1150" cy="300" r="10" fill="#FFD9B8"/>
+<rect x="-10" y="510" width="96" height="210" fill="#0b0716" fill-opacity="0.82"/><rect x="90" y="430" width="96" height="290" fill="#0b0716" fill-opacity="0.82"/><rect x="190" y="540" width="96" height="180" fill="#0b0716" fill-opacity="0.82"/><rect x="290" y="380" width="96" height="340" fill="#0b0716" fill-opacity="0.82"/><rect x="390" y="470" width="96" height="250" fill="#0b0716" fill-opacity="0.82"/><rect x="490" y="330" width="96" height="390" fill="#0b0716" fill-opacity="0.82"/><rect x="590" y="500" width="96" height="220" fill="#0b0716" fill-opacity="0.82"/><rect x="690" y="410" width="96" height="310" fill="#0b0716" fill-opacity="0.82"/><rect x="790" y="520" width="96" height="200" fill="#0b0716" fill-opacity="0.82"/><rect x="890" y="360" width="96" height="360" fill="#0b0716" fill-opacity="0.82"/><rect x="990" y="480" width="96" height="240" fill="#0b0716" fill-opacity="0.82"/><rect x="1090" y="440" width="96" height="280" fill="#0b0716" fill-opacity="0.82"/><rect x="1190" y="530" width="96" height="190" fill="#0b0716" fill-opacity="0.82"/><rect x="10" y="534" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="36" y="534" width="12" height="12" fill="#FFC36B" fill-opacity="0.6499999999999999"/><rect x="62" y="534" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="110" y="468" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="136" y="468" width="12" height="12" fill="#FFC36B" fill-opacity="0.6499999999999999"/><rect x="162" y="468" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="210" y="592" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="236" y="592" width="12" height="12" fill="#FFC36B" fill-opacity="0.6499999999999999"/><rect x="262" y="592" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="310" y="404" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="336" y="404" width="12" height="12" fill="#FFC36B" fill-opacity="0.6499999999999999"/><rect x="362" y="404" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="410" y="508" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="436" y="508" width="12" height="12" fill="#FFC36B" fill-opacity="0.6499999999999999"/><rect x="462" y="508" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="510" y="382" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="536" y="382" width="12" height="12" fill="#FFC36B" fill-opacity="0.6499999999999999"/><rect x="562" y="382" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="610" y="524" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="636" y="524" width="12" height="12" fill="#FFC36B" fill-opacity="0.6499999999999999"/><rect x="662" y="524" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="710" y="448" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="736" y="448" width="12" height="12" fill="#FFC36B" fill-opacity="0.6499999999999999"/><rect x="762" y="448" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="810" y="572" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="836" y="572" width="12" height="12" fill="#FFC36B" fill-opacity="0.6499999999999999"/><rect x="862" y="572" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="910" y="384" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="936" y="384" width="12" height="12" fill="#FFC36B" fill-opacity="0.6499999999999999"/><rect x="962" y="384" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="1010" y="518" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="1036" y="518" width="12" height="12" fill="#FFC36B" fill-opacity="0.6499999999999999"/><rect x="1062" y="518" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="1110" y="492" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="1136" y="492" width="12" height="12" fill="#FFC36B" fill-opacity="0.6499999999999999"/><rect x="1162" y="492" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="1210" y="554" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/><rect x="1236" y="554" width="12" height="12" fill="#FFC36B" fill-opacity="0.6499999999999999"/><rect x="1262" y="554" width="12" height="12" fill="#FFC36B" fill-opacity="0.35"/>
+<rect width="1280" height="720" fill="url(#shaderooftops)"/>
+<g fill="none" stroke="#FF5A1F" stroke-width="6" stroke-linecap="square">
+<path d="M40 112V40H112"/><path d="M1168 680H1240V608"/>
+</g>
+<text x="64" y="648" font-family="Oxanium, 'Arial Black', Impact, 'Segoe UI', sans-serif" font-weight="800" font-size="104" letter-spacing="4" fill="#EEF1F7" stroke="#05060a" stroke-opacity="0.55" stroke-width="2" paint-order="stroke">ROOFTOPS</text>
+<rect x="64" y="668" width="120" height="6" fill="#FF5A1F"/>
+<text x="1216" y="84" text-anchor="end" font-family="Oxanium, 'Arial Black', Impact, 'Segoe UI', sans-serif" font-weight="700" font-size="20" letter-spacing="5" fill="#FFD9B8" fill-opacity="0.75">VISUEL PROVISOIRE</text>
+</svg>

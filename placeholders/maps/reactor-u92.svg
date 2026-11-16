@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img" aria-label="Reactor U92">
+<title>Reactor U92</title>
+<defs>
+<linearGradient id="bgreactoru92" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#03181c"/>
+<stop offset="1" stop-color="#06301f"/>
+</linearGradient>
+<radialGradient id="glowreactoru92" cx="0.68" cy="0.4" r="0.6">
+<stop offset="0" stop-color="#00E5FF" stop-opacity="0.34"/>
+<stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="shadereactoru92" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0.45" stop-color="#05060a" stop-opacity="0"/>
+<stop offset="1" stop-color="#05060a" stop-opacity="0.9"/>
+</linearGradient>
+<pattern id="gridreactoru92" width="40" height="40" patternUnits="userSpaceOnUse">
+<path d="M40 0H0V40" fill="none" stroke="#B2F6FF" stroke-opacity="0.12" stroke-width="1"/>
+</pattern>
+</defs>
+<rect width="1280" height="720" fill="url(#bgreactoru92)"/>
+<rect width="1280" height="720" fill="url(#gridreactoru92)"/>
+<rect width="1280" height="720" fill="url(#glowreactoru92)"/>
+<g fill="none" stroke="#B2F6FF" stroke-opacity="0.6" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"><circle cx="640" cy="300" r="330"/><circle cx="640" cy="300" r="250" stroke-dasharray="4 12"/><circle cx="640" cy="300" r="170"/><path d="M770 300L970 300"/><path d="M752.5833024919771 365L925.7883832488648 465"/><path d="M705 412.583302491977L805 585.7883832488648"/><path d="M640 430L640 630"/><path d="M575 412.58330249197707L475.0000000000001 585.7883832488648"/><path d="M527.4166975080229 365L354.21161675113524 465"/><path d="M510 300L310 300.00000000000006"/><path d="M527.4166975080229 235.00000000000006L354.2116167511352 135.00000000000009"/><path d="M575 187.416697508023L474.9999999999999 14.211616751135296"/><path d="M640 170L639.9999999999999 -30"/><path d="M705 187.416697508023L805 14.211616751135239"/><path d="M752.583302491977 234.99999999999994L925.7883832488646 134.99999999999986"/>
+<rect x="60" y="220" width="160" height="160" fill="#00E5FF" fill-opacity="0.08" rx="6"/><rect x="1060" y="220" width="160" height="160" fill="#00E5FF" fill-opacity="0.08" rx="6"/></g>
+<path d="M640 218l71 41v82l-71 41-71-41v-82z" fill="#39FF88" fill-opacity="0.2" stroke="#39FF88" stroke-width="5" stroke-linejoin="round"/>
+<g fill="none" stroke="#00E5FF">
+<circle cx="640" cy="300" r="88" stroke-width="5" stroke-dasharray="22 14"/>
+<circle cx="640" cy="300" r="48.400000000000006" stroke-width="3" opacity="0.7"/>
+<circle cx="640" cy="300" r="9" fill="#00E5FF" stroke="none"/>
+</g>
+<circle cx="110" cy="300" r="11" fill="#39FF88"/><circle cx="150" cy="260" r="11" fill="#39FF88"/><circle cx="150" cy="340" r="11" fill="#39FF88"/><circle cx="1170" cy="300" r="11" fill="#B2F6FF"/><circle cx="1130" cy="260" r="11" fill="#B2F6FF"/><circle cx="1130" cy="340" r="11" fill="#B2F6FF"/>
+<rect width="1280" height="720" fill="url(#shadereactoru92)"/>
+<g fill="none" stroke="#FF5A1F" stroke-width="6" stroke-linecap="square">
+<path d="M40 112V40H112"/><path d="M1168 680H1240V608"/>
+</g>
+<text x="64" y="648" font-family="Oxanium, 'Arial Black', Impact, 'Segoe UI', sans-serif" font-weight="800" font-size="104" letter-spacing="4" fill="#EEF1F7" stroke="#05060a" stroke-opacity="0.55" stroke-width="2" paint-order="stroke">REACTOR U92</text>
+<rect x="64" y="668" width="120" height="6" fill="#FF5A1F"/>
+<text x="1216" y="84" text-anchor="end" font-family="Oxanium, 'Arial Black', Impact, 'Segoe UI', sans-serif" font-weight="700" font-size="20" letter-spacing="5" fill="#B2F6FF" fill-opacity="0.75">VISUEL PROVISOIRE</text>
+</svg>
