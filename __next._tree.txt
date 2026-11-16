@@ -2,4 +2,4 @@
 :HL["/HitBox.github.io/_next/static/media/manrope_latin_wght_normal-s.p.1p_a2k8qd5zhp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/HitBox.github.io/_next/static/media/oxanium_latin_wght_normal-s.p.3pe1atno441yw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"xhjp4nNC_ezoh4BYZF7np","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"B9sHjRLnU60UzBJk4cmnL","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
