@@ -1,29 +1,30 @@
 2:"$Sreact.fragment"
-3:"/HitBox.github.io/_next/static/chunks/1lqr5ocn4dwt4.js"
-4:"/HitBox.github.io/_next/static/chunks/0go54u6gv-u0s.js"
-5:"/HitBox.github.io/_next/static/chunks/1drfkp0vd2of5.js"
-6:I[39756,["$3","$4","$5"],"default"]
-7:I[37457,["$3","$4","$5"],"default"]
-c:"/HitBox.github.io/_next/static/chunks/1cu9blgsbz557.js"
-d:I[640,["$3","$4","$5","$c"],"RankedLobby"]
-e:I[97367,["$3","$4","$5"],"OutletBoundary"]
-f:"$Sreact.suspense"
-12:"ViewportBoundary"
-13:I[97367,["$3","$4","$5"],"$12"]
-14:"MetadataBoundary"
-15:I[97367,["$3","$4","$5"],"$14"]
-16:I[27201,["$3","$4","$5"],"IconMark"]
-9:X
-9:C
+3:"/HitBox.github.io/_next/static/chunks/2-qgmy_c-ma7k.js"
+4:"/HitBox.github.io/_next/static/chunks/3x_g3lr6agp4w.js"
+5:"/HitBox.github.io/_next/static/chunks/0-825ciahjtf-.js"
+6:"/HitBox.github.io/_next/static/chunks/0uzohxfdeyboh.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+d:"/HitBox.github.io/_next/static/chunks/1cu9blgsbz557.js"
+e:I[640,["$3","$4","$5","$6","$d"],"RankedLobby"]
+f:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+10:"$Sreact.suspense"
+13:"ViewportBoundary"
+14:I[97367,["$3","$4","$5","$6"],"$13"]
+15:"MetadataBoundary"
+16:I[97367,["$3","$4","$5","$6"],"$15"]
+17:I[27201,["$3","$4","$5","$6"],"IconMark"]
 a:X
-b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-[1240px] px-4 sm:px-6 lg:px-8 py-12 sm:py-16","children":[["$","div",null,{"className":"flex flex-wrap items-end justify-between gap-x-8 gap-y-4","children":[["$","div",null,{"className":"max-w-2xl","children":[["$","p",null,{"className":"inline-flex items-center gap-2 font-display text-xs font-semibold uppercase tracking-[0.2em] text-blaze","children":[["$","span",null,{"aria-hidden":true,"className":"h-[2px] w-5 bg-blaze"}],"Ranked 4v4"]}],["$","h1",null,{"className":"mt-3 text-2xl font-bold text-fg sm:text-3xl","children":"Prêt à jouer ?"}],["$","p",null,{"className":"mt-2 text-muted","children":"Entre en file seul ou en groupe : le site compose deux équipes de 4 au MMR le plus proche."}]]}],"$undefined"]}],["$","div",null,{"className":"mt-8","children":["$","$Ld",null,{}]}]]}],[["$","script","script-0",{"src":"/HitBox.github.io/_next/static/chunks/1cu9blgsbz557.js","async":true}]],["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$a"}}]]
-1:[["children",{"s":"ranked","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
-0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#08090d"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Ranked · HitBox"}],["$","meta","1",{"name":"description","content":"HitBox : le ranked 4v4 Call of Duty francophone. Files solo à 4, matchs équilibrés au MMR, rangs de Bronze à Top 30."}],["$","meta","2",{"name":"application-name","content":"HitBox"}],["$","meta","3",{"name":"robots","content":"noindex"}],["$","meta","4",{"property":"og:title","content":"Ranked · HitBox"}],["$","meta","5",{"property":"og:description","content":"HitBox : le ranked 4v4 Call of Duty francophone. Files solo à 4, matchs équilibrés au MMR, rangs de Bronze à Top 30."}],["$","meta","6",{"property":"og:site_name","content":"HitBox"}],["$","meta","7",{"property":"og:locale","content":"fr_FR"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"Ranked · HitBox"}],["$","meta","11",{"name":"twitter:description","content":"HitBox : le ranked 4v4 Call of Duty francophone. Files solo à 4, matchs équilibrés au MMR, rangs de Bronze à Top 30."}],["$","link","12",{"rel":"icon","href":"/HitBox.github.io/icon.svg?icon.40yza4jmqar6-.svg","sizes":"any","type":"image/svg+xml"}],["$","$L16","13",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$a"}},"a":"$@18","u":"$@19","b":"GjQ8dkdnLZ13eZxDBCOfn"}
-10:null
-19:true
-a:300
 a:C
-18:0
-8:"$undefined"
-17:"$undefined"
-11:"$undefined"
+b:X
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-[1240px] px-4 sm:px-6 lg:px-8 py-12 sm:py-16","children":[["$","div",null,{"className":"flex flex-wrap items-end justify-between gap-x-8 gap-y-4","children":[["$","div",null,{"className":"max-w-2xl","children":[["$","p",null,{"className":"inline-flex items-center gap-2 font-display text-xs font-semibold uppercase tracking-[0.2em] text-blaze","children":[["$","span",null,{"aria-hidden":true,"className":"h-[2px] w-5 bg-blaze"}],"Ranked 4v4"]}],["$","h1",null,{"className":"mt-3 text-2xl font-bold text-fg sm:text-3xl","children":"Prêt à jouer ?"}],["$","p",null,{"className":"mt-2 text-muted","children":"Entre en file seul ou en groupe : le site compose deux équipes de 4 au MMR le plus proche."}]]}],"$undefined"]}],["$","div",null,{"className":"mt-8","children":["$","$Le",null,{}]}]]}],[["$","script","script-0",{"src":"/HitBox.github.io/_next/static/chunks/1cu9blgsbz557.js","async":true}]],["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]]}],"p":"$@12","v":null,"s":"$b"}}]]
+1:[["children",{"s":"ranked","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L14",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#08090d"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","$L16",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Ranked · HitBox"}],["$","meta","1",{"name":"description","content":"HitBox : le ranked 4v4 Call of Duty francophone. Files solo à 4, matchs équilibrés au MMR, rangs de Bronze à Top 30."}],["$","meta","2",{"name":"application-name","content":"HitBox"}],["$","meta","3",{"name":"robots","content":"noindex"}],["$","meta","4",{"property":"og:title","content":"Ranked · HitBox"}],["$","meta","5",{"property":"og:description","content":"HitBox : le ranked 4v4 Call of Duty francophone. Files solo à 4, matchs équilibrés au MMR, rangs de Bronze à Top 30."}],["$","meta","6",{"property":"og:site_name","content":"HitBox"}],["$","meta","7",{"property":"og:locale","content":"fr_FR"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"Ranked · HitBox"}],["$","meta","11",{"name":"twitter:description","content":"HitBox : le ranked 4v4 Call of Duty francophone. Files solo à 4, matchs équilibrés au MMR, rangs de Bronze à Top 30."}],["$","link","12",{"rel":"icon","href":"/HitBox.github.io/icon.svg?icon.40yza4jmqar6-.svg","sizes":"any","type":"image/svg+xml"}],["$","$L17","13",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@18","v":null,"s":"$b"}},"a":"$@19","u":"$@1a","b":"1bQ6w60bSDOqH6kRJZxem"}
+11:null
+1a:true
+b:300
+b:C
+19:0
+9:"$undefined"
+18:"$undefined"
+12:"$undefined"

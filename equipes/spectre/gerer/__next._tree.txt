@@ -1,0 +1,8 @@
+:HL["/HitBox.github.io/_next/static/chunks/3ggbkel-15y82.css","style"]
+:HL["/HitBox.github.io/_next/static/media/manrope_latin_wght_normal-s.p.1p_a2k8qd5zhp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/HitBox.github.io/_next/static/media/oxanium_latin_wght_normal-s.p.3pe1atno441yw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":"gerer","h":96,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"spectre","s":["creer"]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"equipes","h":64,"c":"$Q2"}]]
+0:{"b":"1bQ6w60bSDOqH6kRJZxem","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

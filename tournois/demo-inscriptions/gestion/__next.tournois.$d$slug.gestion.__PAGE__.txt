@@ -1,0 +1,35 @@
+2:"$Sreact.fragment"
+3:"/HitBox.github.io/_next/static/chunks/2-qgmy_c-ma7k.js"
+4:"/HitBox.github.io/_next/static/chunks/3x_g3lr6agp4w.js"
+5:"/HitBox.github.io/_next/static/chunks/0-825ciahjtf-.js"
+6:"/HitBox.github.io/_next/static/chunks/0uzohxfdeyboh.js"
+7:I[39756,["$3","$4","$5","$6"],"default"]
+8:I[37457,["$3","$4","$5","$6"],"default"]
+11:"/HitBox.github.io/_next/static/chunks/2piqxweo3dghs.js"
+12:"/HitBox.github.io/_next/static/chunks/2dho9mtgsc-0v.js"
+13:I[70763,["$3","$4","$5","$6","$11","$12"],"ManagementPage"]
+14:I[97367,["$3","$4","$5","$6"],"OutletBoundary"]
+15:"$Sreact.suspense"
+18:"ViewportBoundary"
+19:I[97367,["$3","$4","$5","$6"],"$18"]
+1a:"MetadataBoundary"
+1b:I[97367,["$3","$4","$5","$6"],"$1a"]
+1c:I[27201,["$3","$4","$5","$6"],"IconMark"]
+a:X
+a:C
+b:X
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-[1240px] px-4 sm:px-6 lg:px-8 py-10 sm:py-14","children":["$","$L13",null,{"keyOrSlug":"demo-inscriptions"}]}],[["$","script","script-0",{"src":"/HitBox.github.io/_next/static/chunks/2piqxweo3dghs.js","async":true}],["$","script","script-1",{"src":"/HitBox.github.io/_next/static/chunks/2dho9mtgsc-0v.js","async":true}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":"$@17","v":null,"s":"$b"}}]]
+e:[["children",{"s":"gestion","h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@f","v":"$a","s":"$b"},"c":"$Q10"}]]
+c:[["children",{"s":{"n":"slug","t":"d","k":"demo-inscriptions","s":["creer","palmares"]},"h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@d","v":"$a","s":"$b"},"c":"$Qe"}]]
+1:[["children",{"s":"tournois","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$L8",null,{}]}]]}],"p":"$@9","v":"$a","s":"$b"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#08090d"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Gestion du tournoi · HitBox"}],["$","meta","1",{"name":"description","content":"HitBox : le ranked 4v4 Call of Duty francophone. Files solo à 4, matchs équilibrés au MMR, rangs de Bronze à Top 30."}],["$","meta","2",{"name":"application-name","content":"HitBox"}],["$","meta","3",{"name":"robots","content":"noindex"}],["$","meta","4",{"property":"og:title","content":"Gestion du tournoi · HitBox"}],["$","meta","5",{"property":"og:description","content":"HitBox : le ranked 4v4 Call of Duty francophone. Files solo à 4, matchs équilibrés au MMR, rangs de Bronze à Top 30."}],["$","meta","6",{"property":"og:site_name","content":"HitBox"}],["$","meta","7",{"property":"og:locale","content":"fr_FR"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"Gestion du tournoi · HitBox"}],["$","meta","11",{"name":"twitter:description","content":"HitBox : le ranked 4v4 Call of Duty francophone. Files solo à 4, matchs équilibrés au MMR, rangs de Bronze à Top 30."}],["$","link","12",{"rel":"icon","href":"/HitBox.github.io/icon.svg?icon.40yza4jmqar6-.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1c","13",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$b"}},"a":"$@1e","u":"$@1f","b":"1bQ6w60bSDOqH6kRJZxem"}
+16:null
+1f:true
+b:300
+b:C
+1e:0
+f:"$undefined"
+d:"$undefined"
+9:"$undefined"
+1d:"$undefined"
+17:"$undefined"
