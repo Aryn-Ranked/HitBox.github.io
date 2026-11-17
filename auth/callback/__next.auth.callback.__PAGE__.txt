@@ -1,0 +1,34 @@
+2:"$Sreact.fragment"
+3:"/HitBox.github.io/_next/static/chunks/1buey40w3_xrm.js"
+4:"/HitBox.github.io/_next/static/chunks/0_k5ntqthde2u.js"
+5:"/HitBox.github.io/_next/static/chunks/2-o87iuh6c69p.js"
+6:"/HitBox.github.io/_next/static/chunks/05jwmqq9ywfhv.js"
+7:"/HitBox.github.io/_next/static/chunks/0vt27snpwp2_l.js"
+8:I[39756,["$3","$4","$5","$6","$7"],"default"]
+9:I[37457,["$3","$4","$5","$6","$7"],"default"]
+10:"/HitBox.github.io/_next/static/chunks/28adp4ikfjwxo.js"
+11:I[94347,["$3","$4","$5","$6","$7","$10"],"OAuthCallback"]
+12:I[5500,["$3","$4","$5","$6","$7","$10"],"Image"]
+13:I[97367,["$3","$4","$5","$6","$7"],"OutletBoundary"]
+14:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[97367,["$3","$4","$5","$6","$7"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$3","$4","$5","$6","$7"],"$19"]
+1b:I[27201,["$3","$4","$5","$6","$7"],"IconMark"]
+b:X
+b:C
+c:X
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"relative isolate overflow-hidden","children":[["$","div",null,{"aria-hidden":true,"className":"bg-grid absolute inset-0 -z-10 [mask-image:radial-gradient(ellipse_70%_60%_at_70%_20%,black,transparent)]"}],["$","div",null,{"aria-hidden":true,"className":"absolute -right-40 -top-32 -z-10 size-[520px] rounded-full bg-ice/20 blur-[130px]"}],["$","div",null,{"className":"mx-auto w-full max-w-[1240px] px-4 sm:px-6 lg:px-8 grid gap-10 py-10 sm:py-16 lg:grid-cols-[minmax(0,1fr)_minmax(0,0.9fr)] lg:items-center lg:gap-16","children":[["$","div",null,{"className":"panel notch mx-auto w-full max-w-[480px] p-6 sm:p-9 lg:mx-0","children":[["$","h1",null,{"className":"text-2xl font-bold text-fg sm:text-3xl","children":"Connexion en cours"}],["$","p",null,{"className":"mt-2 text-sm text-muted","children":"Finalisation de la connexion…"}],["$","div",null,{"className":"mt-8","children":[["$","p",null,{"role":"status","className":"notch-sm mb-6 bg-blaze/10 px-4 py-3 text-sm font-medium text-blaze shadow-[inset_3px_0_0_var(--color-blaze)]","children":"Démo : ton compte est simulé et reste uniquement dans ce navigateur."}],["$","$L11",null,{}]]}]]}],["$","aside",null,{"aria-hidden":true,"className":"relative hidden lg:block","children":["$","div",null,{"className":"relative mx-auto aspect-[4/5] max-w-[440px]","children":[["$","div",null,{"className":"notch absolute inset-0 bg-surface-1 shadow-[inset_0_0_0_1px_var(--color-line)]"}],["$","div",null,{"className":"bg-stripes notch absolute inset-0 opacity-50"}],["$","$L12",null,{"src":"/HitBox.github.io/assets/logo/logo-icone.svg","alt":"","unoptimized":true,"width":28,"height":28,"className":"absolute left-7 top-7 size-7 opacity-90"}],["$","div",null,{"className":"absolute inset-x-0 top-[12%] flex justify-center","children":["$","div",null,{"className":"relative size-56","children":[["$","div",null,{"className":"absolute inset-0 rounded-full bg-[radial-gradient(circle,rgb(255_61_100/0.32),transparent_70%)]"}],["$","$L12",null,{"src":"/HitBox.github.io/placeholders/rangs/ecarlate-3.svg","alt":"","unoptimized":true,"width":224,"height":224,"className":"relative size-full motion-safe:animate-float","draggable":false}]]}]}],["$","div",null,{"className":"absolute inset-x-8 bottom-8","children":[["$","p",null,{"className":"font-display text-2xl font-bold uppercase text-fg","children":"Chaque match compte."}],["$","p",null,{"className":"mt-2 text-sm text-muted","children":"Des points de rang (RP) à gagner match après match, des placements, des saisons avec nouveau départ."}],["$","ul",null,{"className":"mt-5 flex flex-col gap-2 text-sm text-fg","children":[["$","li","Matchs équilibrés",{"className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"size-1.5 rotate-45 bg-blaze"}],"Matchs équilibrés"]}],["$","li","Règles CDL sur chaque map",{"className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"size-1.5 rotate-45 bg-blaze"}],"Règles CDL sur chaque map"]}],["$","li","Litiges traités par le staff",{"className":"flex items-center gap-2.5","children":[["$","span",null,{"className":"size-1.5 rotate-45 bg-blaze"}],"Litiges traités par le staff"]}]]}]]}]]}]}]]}]]}],[["$","script","script-0",{"src":"/HitBox.github.io/_next/static/chunks/28adp4ikfjwxo.js","async":true}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$c"}}]]
+d:[["children",{"s":"callback","h":96,"d":{"r":["$","$2","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@e","v":"$b","s":"$c"},"c":"$Qf"}]]
+1:[["children",{"s":"auth","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@a","v":"$b","s":"$c"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#08090d"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Connexion en cours · HitBox"}],["$","meta","1",{"name":"description","content":"HitBox : le ranked 4v4 Call of Duty francophone. Files solo à 4, matchs équilibrés, rangs de Bronze à Top 30."}],["$","meta","2",{"name":"application-name","content":"HitBox"}],["$","meta","3",{"property":"og:title","content":"Connexion en cours · HitBox"}],["$","meta","4",{"property":"og:description","content":"HitBox : le ranked 4v4 Call of Duty francophone. Files solo à 4, matchs équilibrés, rangs de Bronze à Top 30."}],["$","meta","5",{"property":"og:site_name","content":"HitBox"}],["$","meta","6",{"property":"og:locale","content":"fr_FR"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"Connexion en cours · HitBox"}],["$","meta","10",{"name":"twitter:description","content":"HitBox : le ranked 4v4 Call of Duty francophone. Files solo à 4, matchs équilibrés, rangs de Bronze à Top 30."}],["$","link","11",{"rel":"icon","href":"/HitBox.github.io/icon.svg?icon.40yza4jmqar6-.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1b","12",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$c"}},"a":"$@1d","u":"$@1e","b":"DGMK2sRnFX3zxLWB-g80p"}
+15:null
+1e:true
+c:300
+c:C
+1d:0
+e:"$undefined"
+a:"$undefined"
+1c:"$undefined"
+16:"$undefined"

@@ -1,0 +1,31 @@
+2:"$Sreact.fragment"
+3:"/HitBox.github.io/_next/static/chunks/1buey40w3_xrm.js"
+4:"/HitBox.github.io/_next/static/chunks/0_k5ntqthde2u.js"
+5:"/HitBox.github.io/_next/static/chunks/2-o87iuh6c69p.js"
+6:"/HitBox.github.io/_next/static/chunks/05jwmqq9ywfhv.js"
+7:"/HitBox.github.io/_next/static/chunks/0vt27snpwp2_l.js"
+8:I[39756,["$3","$4","$5","$6","$7"],"default"]
+9:I[37457,["$3","$4","$5","$6","$7"],"default"]
+e:"/HitBox.github.io/_next/static/chunks/2whl493i8cuk3.js"
+f:I[38352,["$3","$4","$5","$6","$7","$e"],"SupportList"]
+10:I[97367,["$3","$4","$5","$6","$7"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[97367,["$3","$4","$5","$6","$7"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$3","$4","$5","$6","$7"],"$16"]
+18:I[27201,["$3","$4","$5","$6","$7"],"IconMark"]
+b:X
+b:C
+c:X
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-[1240px] px-4 sm:px-6 lg:px-8 py-12 sm:py-16","children":[["$","div",null,{"className":"flex flex-wrap items-end justify-between gap-x-8 gap-y-4","children":[["$","div",null,{"className":"max-w-2xl","children":[["$","p",null,{"className":"inline-flex items-center gap-2 font-display text-xs font-semibold uppercase tracking-[0.2em] text-blaze","children":[["$","span",null,{"aria-hidden":true,"className":"h-[2px] w-5 bg-blaze"}],"Aide"]}],["$","h1",null,{"className":"mt-3 text-2xl font-bold text-fg sm:text-3xl","children":"Support"}],["$","p",null,{"className":"mt-2 text-muted","children":"Un souci de compte, de match ou de litige ? Ouvre un ticket : le staff te répond ici."}]]}],"$undefined"]}],["$","div",null,{"className":"mt-8","children":["$","$Lf",null,{}]}]]}],[["$","script","script-0",{"src":"/HitBox.github.io/_next/static/chunks/2whl493i8cuk3.js","async":true}]],["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$c"}}]]
+1:[["children",{"s":"support","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@a","v":"$b","s":"$c"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#08090d"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Support · HitBox"}],["$","meta","1",{"name":"description","content":"HitBox : le ranked 4v4 Call of Duty francophone. Files solo à 4, matchs équilibrés, rangs de Bronze à Top 30."}],["$","meta","2",{"name":"application-name","content":"HitBox"}],["$","meta","3",{"name":"robots","content":"noindex"}],["$","meta","4",{"property":"og:title","content":"Support · HitBox"}],["$","meta","5",{"property":"og:description","content":"HitBox : le ranked 4v4 Call of Duty francophone. Files solo à 4, matchs équilibrés, rangs de Bronze à Top 30."}],["$","meta","6",{"property":"og:site_name","content":"HitBox"}],["$","meta","7",{"property":"og:locale","content":"fr_FR"}],["$","meta","8",{"property":"og:type","content":"website"}],["$","meta","9",{"name":"twitter:card","content":"summary"}],["$","meta","10",{"name":"twitter:title","content":"Support · HitBox"}],["$","meta","11",{"name":"twitter:description","content":"HitBox : le ranked 4v4 Call of Duty francophone. Files solo à 4, matchs équilibrés, rangs de Bronze à Top 30."}],["$","link","12",{"rel":"icon","href":"/HitBox.github.io/icon.svg?icon.40yza4jmqar6-.svg","sizes":"any","type":"image/svg+xml"}],["$","$L18","13",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@19","v":null,"s":"$c"}},"a":"$@1a","u":"$@1b","b":"DGMK2sRnFX3zxLWB-g80p"}
+12:null
+1b:true
+c:300
+c:C
+1a:0
+a:"$undefined"
+19:"$undefined"
+13:"$undefined"
